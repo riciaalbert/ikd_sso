@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ikd_sso</string>
+    <string name="IKD_CLIENT_KEY">tWc5T42bm7</string>
+    <string name="IKD_API_KEY">d9fa217b-e344-4c6d-9d7d-919839cbe82b</string>
+    <string name="IKD_CALLBACK_URL"></string>
+    <string name="IKD_SCOPE">nik,nama,foto,dob</string>
+</resources>
